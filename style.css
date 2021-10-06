@@ -11,3 +11,16 @@ body {
     max-height: 350px;
     border: 5px solid;
 }
+.headerTwo {
+    text-align: center;
+    font-family: "Academy Engraved LET";
+}
+
+.textDiv {
+    font-family: Arial;
+}
+.kakImg {
+    max-height: 100px;
+    text-align: center;
+}
+
